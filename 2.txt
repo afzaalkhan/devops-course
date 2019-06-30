@@ -1,0 +1,237 @@
+Last login: Sun Jun 30 13:02:01 on ttys000
+Afzals-MacBook-Pro:~ afzalkhan$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afzals-MacBook-Pro:~ afzalkhan$ ls
+Applications	Calibre Library	Desktop		Documents	Downloads	Library		Movies		Music		Pictures	Public		Vagrant-vms	Vagrantfile	VirtualBox VMs
+Afzals-MacBook-Pro:~ afzalkhan$ cd Vargrant-vms
+-bash: cd: Vargrant-vms: No such file or directory
+Afzals-MacBook-Pro:~ afzalkhan$ cd Vagrant-vms
+Afzals-MacBook-Pro:Vagrant-vms afzalkhan$ cd..
+-bash: cd..: command not found
+Afzals-MacBook-Pro:Vagrant-vms afzalkhan$ ls
+centos-vm	ubuntu-vm
+Afzals-MacBook-Pro:Vagrant-vms afzalkhan$ cd ubuntu-vm
+Afzals-MacBook-Pro:ubuntu-vm afzalkhan$ ls
+Vagrantfile	devops
+Afzals-MacBook-Pro:ubuntu-vm afzalkhan$ cd devops
+Afzals-MacBook-Pro:devops afzalkhan$ ls
+1.txt		1.txt.save
+Afzals-MacBook-Pro:devops afzalkhan$ rm 1.txt.save
+Afzals-MacBook-Pro:devops afzalkhan$ ls
+1.txt
+Afzals-MacBook-Pro:devops afzalkhan$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afzals-MacBook-Pro:devops afzalkhan$ clear
+
+Afzals-MacBook-Pro:devops afzalkhan$ nano 2.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6                                                 File: 2.txt                                                                                               Modified  
+
+Hello from Afzal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    [ New File ]
+^G Get Help                   ^O WriteOut                   ^R Read File                  ^Y Prev Page                  ^K Cut Text                   ^C Cur Pos
+^X Exit                       ^J Justify                    ^W Where Is                   ^V Next Page                  ^U UnCut Text                 ^T To Spell
